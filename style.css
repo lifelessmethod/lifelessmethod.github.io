@@ -227,10 +227,34 @@
   left: 458px;
 }
 
-.frame .group-2 {
+.frame .behance {
   position: absolute;
-  width: 320px;
-  height: 62px;
+  width: 65px;
+  height: 61px;
+  top: 2225px;
+  left: 968px;
+}
+
+.frame .telega {
+  position: absolute;
+  width: 65px;
+  height: 61px;
+  top: 2225px;
+  left: 883px;
+}
+
+.frame .twitter {
+  position: absolute;
+  width: 65px;
+  height: 61px;
+  top: 2226px;
+  left: 1053px;
+}
+
+.frame .insta {
+  position: absolute;
+  width: 65px;
+  height: 61px;
   top: 2225px;
   left: 798px;
 }
